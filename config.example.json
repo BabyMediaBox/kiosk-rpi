@@ -1,0 +1,12 @@
+{
+    "server": "http://SERVER:3010",
+    "port" : 3030,
+    "serialEnabled": true,
+    "serialPort": 9600,
+    "serialDevice": "/dev/ttyACM0",
+    "soundDevice": "Master",
+    "pinToButtonMap": {
+        "10": "1",
+        "11": "2"
+    }
+}
